@@ -1,0 +1,58 @@
+{
+    "product": [
+      { "id": 1,
+      "productName": "Phone",
+      "categoryId":1,
+      "descriptions":"Neten's phone",
+      "price":300,
+      "is_available":true,
+      "productImg":"https://media.wired.com/photos/621980b1aaf30ea1c35e400a/125:94/w_1822,h_1370,c_limit/Gear-Samsung-S22-Series.jpg",
+      "rating":4,
+      "review":150,
+      "vendor_name":"abc shop",
+      "waranty":1
+    }, 
+    { "id": 2,
+      "productName": "Neten",
+      "categoryId":3,
+      "descriptions":"",
+      "price":300,
+      "is_available":true,
+      "productImg":"https://scontent.fpbh1-1.fna.fbcdn.net/v/t39.30808-6/290590181_1204613313683720_4401266450609781258_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=z_gkURch1uwAX8GSNLT&_nc_ht=scontent.fpbh1-1.fna&oh=00_AfCNmm6BxxhbfZ0V6W1jUl2Qm4vbmhboVaLN-E6H0rso-g&oe=6368230B",
+      "rating":4,
+      "review":150,
+      "vendor_name":"abc shop",
+      "waranty":1
+    }, 
+    { "id": 3,
+      "productName": "Cloths",
+      "categoryId":2,
+      "descriptions":"dd",
+      "price":300,
+      "is_available":true,
+      "productImg":"https://www.masterclass.com/cdn-cgi/image/width=1920,quality=75,format=webp/https://images.ctfassets.net/3s5io6mnxfqz/3N5iXB8yNlqVQS3xWdIIgX/fa0d654680fbd64eb5852dbbbcf4cca4/AdobeStock_303371265.jpeg",
+      "rating":4,
+      "review":150,
+      "vendor_name":"abc shop",
+      "waranty":1
+    }
+    
+      
+    ],
+    
+    "categories": [
+      { "id": 1, "categoryName": "Electronics" },
+      { "id": 2, "categoryName": "Men" },
+      { "id": 3, "categoryName": "Women" },
+      { "id": 4, "categoryName": "Home & Furniture" },
+      { "id": 5, "categoryName": "Baby & Kids" }
+      
+    ],
+    "comments": [
+      { "id": 1, "body": "some comment", "postId": 1 },
+      { "id": 2, "body": "some comment", "postId": 1 }
+    ],
+    "profile": {
+      "name": "typicode"
+    }
+  }
