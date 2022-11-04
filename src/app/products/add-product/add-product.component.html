@@ -1,0 +1,45 @@
+<div class="p-3">
+    <p class="h1 text-center">
+
+ Products to Sell
+   </p>
+
+  </div>
+<form (submit)="addNewProduct(addProductForm)" #addProductForm="ngForm">
+<div class="container-sm border border-1" id="box">
+  <div class="row d-flex justify-content-center mt-5" >
+              <div class="col-md-6 mb-5">
+                  <label for='uname' class='labels'>Product Name</label>
+                  <input type='text' class='border border-top-0 border-right-0 border-left-0 rounded-1 mt-1' placeholder='Productname' size='30' id="uname" name="productname" required ngModel />
+              </div>
+      <div class="row d-flex justify-content-center">
+      <div class="col-md-6 mb-5">
+                  <label for='image' class='labels'>Insert Image URL</label>
+                  <input type='text' class='border border-top-0 border-right-0 border-left-0 rounded-1 mt-1' placeholder='image' size='30' id="image" name="productimg" ngModel required/>
+              </div>
+      </div>
+      <div class="row d-flex justify-content-center">
+        <div class="col-md-6 mb-5">
+                    <label for='price' class='labels'>Enter Price</label>
+                    <input type='number' class='border border-top-0 border-right-0 border-left-0 rounded-1 mt-1' placeholder='Price' size='30' id="price" name="productprice" ngModel required/>
+                </div>
+        </div>
+        <div class="row d-flex justify-content-center">
+            <div class="col-md-6 mb-5">
+                        <label for='Description' class='labels'>Description</label>
+                        <textarea rows="4" cols="65"class='border border-top-0 border-right-0 border-left-0 rounded-1 mt-1' placeholder='Description' size='30' id="password" name="productdescription" ngModel maxlength="144" required></textarea>
+                    </div>
+            </div>
+
+          </div>
+          <div class="row">
+            <div class="col mb-3 text-center">
+                  <button type="submit" class="rounded-3 btn btn-light btn-lg" >Sell</button>
+              </div>
+           
+          </div>
+          </div>
+</form>
+          
+      
+

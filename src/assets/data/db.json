@@ -1,0 +1,92 @@
+{
+  "product": [
+    {
+      "productName": "IPhone X",
+      "description": "Released 2017, November 03 174g, 7.7mm thickness iOS 11.1.1, up to iOS 16.1. 64GB/256GB storage, no card slot; 36% 26,524,928 hits; 1465 Become a fan;",
+      "price": "90,000",
+      "productImg": "https://imageio.forbes.com/blogs-images/gordonkelly/files/2018/09/X-vs-XS.jpg?format=jpg&width=960",
+      "id": 114
+    },
+    {
+      "productName": "Ophidia mini GG shoulder bag",
+      "description": "The Ophidia is reinvented in new and unexpected ways. Reminiscent of the punk scene, metal eyelets and studs define the historical silhouette to",
+      "price": "70,000",
+      "productImg": "https://media.gucci.com/style/HEXE0E8E5_Center_0_0_800x800/1662505337/722117_FAAX9_4047_001_087_0000_Light-Ophidia-mini-GG-shoulder-bag.jpg",
+      "id": 115
+    },
+    {
+      "productName": "C-Class",
+      "description": "The new C-Class: made for you.\nComfort, Connect, Control: Modern Luxury, Superior Technology and many new exciting highlights await you.",
+      "price": "300,000",
+      "productImg": "https://stimg.cardekho.com/images/carexteriorimages/930x620/Mercedes-Benz/C-Class/9089/1652174613895/front-left-side-47.jpg",
+      "id": 116
+    },
+    {
+      "productName": "External HDD",
+      "description": "Seagate Portable 2TB External Hard Drive Portable HDD – USB 3.0 for PC, Mac, PlayStation, & Xbox - 1-Year Rescue Service (STGX2000400)",
+      "price": "2000",
+      "productImg": "https://m.media-amazon.com/images/I/81tjLksKixL._AC_SX425_.jpg",
+      "id": 117
+    },
+    {
+      "productName": "shirt",
+      "description": "100% Cotton\nImported\nButton closure\nMachine Wash\nPERFECT WEIGHT: Weighing in at 5.1 ounces, the Buck Camp Flannel Shirt is the perfect weight to",
+      "price": "500",
+      "productImg": "https://m.media-amazon.com/images/I/91tWCqtXtOS._AC_UX466_.jpg",
+      "id": 118
+    },
+    {
+      "productName": "Women's shoe",
+      "description": "100% Leather\nImported\nMan Made sole\nShaft measures approximately not_applicable from arch\nBallerina/Skimmer\nAll Thru Comfort",
+      "price": "500",
+      "productImg": "https://m.media-amazon.com/images/I/71idS+RFE9L._AC_UX500_.jpg",
+      "id": 119
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "categoryName": "Electronics"
+    },
+    {
+      "id": 2,
+      "categoryName": "Men"
+    },
+    {
+      "id": 3,
+      "categoryName": "Women"
+    },
+    {
+      "id": 4,
+      "categoryName": "Home & Furniture"
+    },
+    {
+      "id": 5,
+      "categoryName": "Baby & Kids"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "order": [
+    {
+      "id": 1,
+      "name": "some comment",
+      "number": 1,
+      "address": "some add"
+    }
+   
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

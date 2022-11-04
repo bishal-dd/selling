@@ -1,0 +1,13 @@
+#box {
+
+    background-color: rgb(243, 220, 189);
+    margin-bottom: 70px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+input{
+    width:500px;
+    height: 50px;
+}
+button{
+    width: 200px;
+}
